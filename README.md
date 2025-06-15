@@ -171,6 +171,20 @@ Total To Date (TTD)
 
 **Customer Order Count Filter:** A numeric input to filter customers who have ordered more than a specified number of times.
 
-**Dashboard Interaction:** <a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Home%20Page.png">Page1</a>
+**Dashboard Interaction:** 
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Home%20Page.png">Home</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Overview%20Page.png">Overview</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/SalesOverview%20Page.png">Sales Overview</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Customer%20Page.png">Customer</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Feedback%20Page.png">Feedbacks</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Inventory%20Page.png">Inventory</a>
+
+<a href ="https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/Marketing%20Page.png">Marketing</a>
+
 
 
