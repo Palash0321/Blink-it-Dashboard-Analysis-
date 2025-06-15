@@ -190,6 +190,15 @@ Total To Date (TTD)
 # Dashboard
 ![Home Page](https://github.com/user-attachments/assets/ca81cd3a-d154-49ab-8445-ba8c268e91e5)
 ![Overview Page](https://github.com/user-attachments/assets/6c3b49e2-9faf-46a9-86ce-c81c0ff23368)
+![SalesOverview Page](https://github.com/user-attachments/assets/43f41524-bc62-46f2-8e85-d2a5643c843a)
+![Customer Page](https://github.com/user-attachments/assets/20e675ab-9fff-49fe-a625-20eab5e27301)
+![Feedback Page](https://github.com/user-attachments/assets/5aa24c60-1f0c-403e-b7db-25d03d28332d)
+![Inventory Page](https://github.com/user-attachments/assets/07001645-843e-4119-9d21-87423efb40da)
+![Marketing Page](https://github.com/user-attachments/assets/19f13e43-60be-4e79-9f37-7b8cfaf31c55)
+
+
+
+
 
 
 
