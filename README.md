@@ -1,4 +1,4 @@
-# Blink-it-Dashboard-Analysis
+# Blink-it Dashboard Analysis
 The Blinkit Dynamic Data Dashboard is a comprehensive and interactive Power BI solution designed to provide real-time, actionable insights into Blinkit's sales, customer behavior, and inventory performance from 2023-2025. It serves as a vital tool for stakeholders to monitor key business metrics, understand trends, and make data-driven decisions to optimize operations. The dashboard features a sleek, custom background designed using Figma, enhancing user experience.
 
 # Project Overview
@@ -17,3 +17,22 @@ This project involved the end-to-end development of a sophisticated data dashboa
 **Sharing Insights:** Presenting key performance indicators (KPIs) and trends to inform strategic decision-making.
 
 The dashboard aims to enable corporate stakeholders to make informed decisions regarding sales forecasts, customer behavior, and product performance, ultimately contributing to increased sales and profitability
+
+# Key Features
+The Blinkit Dynamic Data Dashboard offers a range of interactive features designed for comprehensive analysis:
+
+**Multi-Tab Navigation:** Organized into distinct sections (Home, Sales Overview, Customer, Feedbacks, Inventory, Marketing) for focused analysis.
+
+**Dynamic KPIs:** Displays essential metrics with growth percentages, providing immediate performance snapshots.
+
+**Interactive Visualizations:** Includes various charts like bar charts, line graphs, and donut charts, allowing users to interact with and explore data.
+
+**Granular Filters:** Comprehensive filter panel for slicing data by date range (Last 2/3/6/9 Months, Last Month, Last 6 Months, YTD, TTD), Year (2023, 2024, 2025), Customer Name, Customer Segment, Area, and Product Name.
+
+**Customizable Views:** Users can switch between Quantity and Value views for certain metrics to suit their analytical needs.
+
+**Detailed Breakdowns:** Provides breakdowns of sales by top products/areas, quantities by payment methods, customer counts, and stock information.
+
+**Customer Feedback Analysis:** Dedicated section to analyze customer ratings and feedback sentiment.
+
+**Marketing Performance Tracking:** Visualizes marketing KPIs such as Clicks, Conversions, Impressions, Revenue, ROAS, and Spend over time.
