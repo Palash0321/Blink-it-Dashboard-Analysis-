@@ -52,6 +52,5 @@ The Blinkit Dynamic Data Dashboard was developed using a robust stack of tools:
 
 # Dataset Used
 The dataset powering this dashboard was self-created with the assistance of Python and ChatGPT. It consists of approximately 50,000 rows per table, encompassing data related to Blinkit's orders, customer feedback, sales, and inventory for the years 2023, 2024, and 2025.
-<a href = "C:\Users\palas\OneDrive\Desktop\vscode\python\createddata.py">Dataset1</a>
 
 
