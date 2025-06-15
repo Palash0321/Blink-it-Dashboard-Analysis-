@@ -52,5 +52,36 @@ The Blinkit Dynamic Data Dashboard was developed using a robust stack of tools:
 
 # Dataset Used
 The dataset powering this dashboard was self-created with the assistance of Python and ChatGPT. It consists of approximately 50,000 rows per table, encompassing data related to Blinkit's orders, customer feedback, sales, and inventory for the years 2023, 2024, and 2025.
+
 <a href = "https://github.com/Palash0321/Blink-it-Dashboard-Analysis-/blob/main/createddata.py">Dataset</a>
+
+# Overall KPIs
+The dashboard highlights several crucial Key Performance Indicators (KPIs) across different sections:
+
+**Total Quantity:** Overall quantity of goods sold.
+
+**Total Value/Amount:** Total revenue generated from sales.
+
+**Total Profit:** Overall profit earned.
+
+**Customer Average Order Value (CAOV):** The mean value of orders placed by customers
+
+**Growth Percentage:** Month-over-month or period-over-period growth for various metrics.
+
+**Marketing Metrics:** Clicks, Conversions, Impressions, Revenue, Return on Ad Spend (ROAS), and Marketing Spend.
+
+**Stock Metrics:** Total Received Stock, Available Stock (value and percentage), and Damaged Stock (value and percentage).
+
+**Customer Feedback Metrics:** Count of feedbacks by rating (1-5), and overall positive/negative/neutral feedback percentages.
+
+# Queries
+The Blinkit Dynamic Data Dashboard answers a variety of critical business questions, enabling stakeholders to gain deep insights into operations:
+
+**General/Overall Sales Queries:**
+
+What is the total quantity of goods sold for the current period (e.g., Last 6/9 Months, 2024)?
+
+What is the total sales value (revenue) for the current period?
+
+What is the growth percentage for quantity and value compared to the previous period?
 
