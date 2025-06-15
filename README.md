@@ -85,3 +85,90 @@ What is the total sales value (revenue) for the current period?
 
 What is the growth percentage for quantity and value compared to the previous period?
 
+**Sales Overview Specific Queries:**
+
+How much total sale is being made in each state? 
+
+What is the total quantity sold for each of the product categories (e.g., top 50 products quantity)? 
+
+What is the monthly profit trend? 
+
+What is the total sales amount by customer? 
+
+What is the total quantity sold for each payment mode? 
+
+What is the total profit for each of the sub-categories of products? 
+
+What is the sales overview and growth by month for 2023 and 2024?
+
+**Customer Specific Queries:**
+
+What is the top customer quantity?
+
+What is the customer count by month?
+
+What are the sales figures for customers who have ordered more than a certain number of times?
+
+What are the details of customer orders, categories, segments, and feedback types?
+
+**Feedback Specific Queries:**
+
+What is the distribution of customer feedback ratings (1-5)?
+
+What percentage of feedback is positive, negative, or neutral?
+
+What are the details of individual customer feedback?
+
+**Inventory Specific Queries:**
+
+What is the total received stock?
+
+What is the current available stock and its percentage?
+
+What is the current damaged stock and its percentage?
+
+What are the stock trends over time (stock received, period value, damaged value, available stock)?
+
+**Marketing Specific Queries:**
+
+What are the key marketing metrics (Clicks, Conversions, Impressions, Revenue, ROAS, Spend) for a given period?
+
+How have marketing values (e.g., impressions, revenue generated) trended by month over time?
+
+# Dashboard Controls and Filters
+The dashboard provides extensive interactive controls for dynamic data exploration:
+
+**Date Axis Filters:** Users can filter data by specific timeframes:
+Last 2 Months
+
+Last 3 Months
+
+Last 6 Months
+
+Last 9 Months
+
+Last Month
+
+Last 6 Months
+
+Year To Date (YTD)
+
+Total To Date (TTD)
+
+**Year Selector:** Allows selection of data for specific years (2023, 2024, 2025).
+
+**Customer Name Filter:** Enables filtering by individual customer names.
+
+**Customer Segment Filter:** Allows selection based on customer segments (e.g., Inactive, New, Premium, Regular).
+
+**Area Filter:** Filters data by geographical area.
+
+**Product Name Filter:** Filters data by specific product names.
+
+**Quantity/Value Toggle:** A button to switch between displaying metrics in terms of "Quantity" or "Value."
+
+**Feedback Rating Selectors:** Allows selection/deselection of specific feedback ratings (1-5).
+
+**Customer Order Count Filter:** A numeric input to filter customers who have ordered more than a specified number of times.
+
+
