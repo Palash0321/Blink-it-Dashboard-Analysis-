@@ -36,3 +36,22 @@ The Blinkit Dynamic Data Dashboard offers a range of interactive features design
 **Customer Feedback Analysis:** Dedicated section to analyze customer ratings and feedback sentiment.
 
 **Marketing Performance Tracking:** Visualizes marketing KPIs such as Clicks, Conversions, Impressions, Revenue, ROAS, and Spend over time.
+
+# Technologies Used
+The Blinkit Dynamic Data Dashboard was developed using a robust stack of tools:
+
+**Python:** Utilized for data preparation and handling large datasets, including data cleaning and transformation.
+
+**MySQL:** Employed for robust data storage, serving as the backend database.
+
+**MySQL Workbench:** Used for database management, querying, and potentially for data manipulation within MySQL.
+
+**Power BI:** The primary tool for dashboard creation, data modeling, and interactive visualization.
+
+**Figma:** Used for designing the custom, sleek background and overall professional aesthetic of the dashboard.
+
+# Dataset Used
+The dataset powering this dashboard was self-created with the assistance of Python and ChatGPT. It consists of approximately 50,000 rows per table, encompassing data related to Blinkit's orders, customer feedback, sales, and inventory for the years 2023, 2024, and 2025.
+<a href = "C:\Users\palas\OneDrive\Desktop\vscode\python\createddata.py">Dataset1</a>
+
+
